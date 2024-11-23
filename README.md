@@ -9,11 +9,10 @@
 ## Skills  
 LANGUAGES: C,Java,Python
 
-FRONTEND: HTML,CSS,JavaScript,ReactJs,
-TailwindCss
+FRONTEND: HTML,CSS,JavaScript,ReactJs,TailwindCss
 
-Backend: ExpressJs,NodeJs,Django
+BACKEND: ExpressJs,NodeJs,Django
 
-Database: MySQL,MangoDB
+DATABASE: MySQL,MangoDB
 
 DBMS,ADA
