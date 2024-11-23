@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Hemanth Kumar R  
 
-<!--
-**Hemanth-4301/Hemanth-4301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me  
+- 🎓 BE student at NIE Mysuru (CGPA: 8.825).  
+- 💻 Tech Lead at Credit Circle, NIE's financial club.  
+- 🌟 Council Member at Tinker’s Lab, NIE.  
+- 🔍 Passionate about AI/ML, web development, and solving real-world problems.
 
-Here are some ideas to get you started:
+## Skills  
+LANGUAGES: C,Java,Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+FRONTEND: HTML,CSS,JavaScript,ReactJs,
+TailwindCss
+
+Backend: ExpressJs,NodeJs,Django
+
+Database: MySQL,MangoDB
+
+DBMS,ADA
